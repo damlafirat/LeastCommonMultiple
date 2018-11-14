@@ -1,0 +1,6 @@
+C:\Users\damla\Desktop\Notes_ASPNET\LeastCommonMultiple\LeastCommonMultiple\bin\Debug\LeastCommonMultiple.exe.config
+C:\Users\damla\Desktop\Notes_ASPNET\LeastCommonMultiple\LeastCommonMultiple\bin\Debug\LeastCommonMultiple.exe
+C:\Users\damla\Desktop\Notes_ASPNET\LeastCommonMultiple\LeastCommonMultiple\bin\Debug\LeastCommonMultiple.pdb
+C:\Users\damla\Desktop\Notes_ASPNET\LeastCommonMultiple\LeastCommonMultiple\obj\Debug\LeastCommonMultiple.csprojResolveAssemblyReference.cache
+C:\Users\damla\Desktop\Notes_ASPNET\LeastCommonMultiple\LeastCommonMultiple\obj\Debug\LeastCommonMultiple.exe
+C:\Users\damla\Desktop\Notes_ASPNET\LeastCommonMultiple\LeastCommonMultiple\obj\Debug\LeastCommonMultiple.pdb
